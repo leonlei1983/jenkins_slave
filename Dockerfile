@@ -4,4 +4,4 @@ MAINTAINER Leon Lei <leonlei1983@gmail.com>
 
 # installation required utilities
 
-ENTRYPOINT ["/usr/bin/linux32 /bin/bash"]
+ENTRYPOINT ["/usr/bin/linux32", "/bin/bash"]
